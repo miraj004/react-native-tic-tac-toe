@@ -1,16 +1,13 @@
-# Currency Converter App
+# Tic Tac Toe Game
 
 ## Overview
 
-his is a simple React Native application that converts Afghan Afghani (AFN) to various popular currencies. The user can input an amount in AFN and select a currency to view the converted value.
+This app allows two players to play the classic Tic Tac Toe game. The players can take turns to place their marks (X or O) on a 3x3 grid, and the first player to align three marks horizontally, vertically, or diagonally wins the game.
 
-## Features
 
-- Currency Conversion: Convert Afghan Afghani (AFN) to various popular currencies.
-- Dynamic Selection: Select a currency to view the conversion rate dynamically.
 
 ## Screenshots
-![Home Screen](./screenshot/CurrencyConverter.png)
+![Main Screen](./screenshot/TicTacToe.png)
 
 ## Installation
 
@@ -18,8 +15,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/miraj004/react-native-currency-converter.git
-   cd react-native-currency-converter
+   git clone https://github.com/miraj004/react-native-tic-tac-toe.git
+   cd react-native-tic-tac-toe
 
 2. **Install dependencies**
    ```bash
